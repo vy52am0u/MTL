@@ -44,7 +44,7 @@ pcb/
 ```
 
 # Сборка
-<img src="pcba_top_side.jpg" width="45%"></img> <img src="pcba_with_case.jpg" width="45%"></img> 
+<img src="/assets/pcba_top_side.jpg" width="45%"></img> <img src="/assets/pcba_with_case.jpg" width="45%"></img> 
 <!-- #TODO --> 
 
 ## Выбор радиомодуля
